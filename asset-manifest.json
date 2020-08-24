@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Homework-19/static/css/main.b9dc26ac.chunk.css",
+    "main.js": "/Homework-19/static/js/main.0e3ddefc.chunk.js",
+    "main.js.map": "/Homework-19/static/js/main.0e3ddefc.chunk.js.map",
+    "runtime-main.js": "/Homework-19/static/js/runtime-main.11965edf.js",
+    "runtime-main.js.map": "/Homework-19/static/js/runtime-main.11965edf.js.map",
+    "static/js/2.86742283.chunk.js": "/Homework-19/static/js/2.86742283.chunk.js",
+    "static/js/2.86742283.chunk.js.map": "/Homework-19/static/js/2.86742283.chunk.js.map",
+    "index.html": "/Homework-19/index.html",
+    "precache-manifest.03de57ce9b0f5d1061a015aac87a57c4.js": "/Homework-19/precache-manifest.03de57ce9b0f5d1061a015aac87a57c4.js",
+    "service-worker.js": "/Homework-19/service-worker.js",
+    "static/css/main.b9dc26ac.chunk.css.map": "/Homework-19/static/css/main.b9dc26ac.chunk.css.map",
+    "static/js/2.86742283.chunk.js.LICENSE.txt": "/Homework-19/static/js/2.86742283.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11965edf.js",
+    "static/js/2.86742283.chunk.js",
+    "static/css/main.b9dc26ac.chunk.css",
+    "static/js/main.0e3ddefc.chunk.js"
+  ]
+}
